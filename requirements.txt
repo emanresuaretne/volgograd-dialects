@@ -1,0 +1,12 @@
+python>=3.8
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+geopandas
+shapely
+openpyxl
+pickle5
+tqdm
+sty
